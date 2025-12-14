@@ -13,6 +13,8 @@
 >Booking System
 সবকিছু Role-based Access Control (Admin & Customer) দিয়ে পরিচালিত হয়।
 
+
+
 ##✨ Features
 🔐 Authentication & User
 >JWT ভিত্তিক Authentication
@@ -21,16 +23,19 @@
 >Admin সব user manage করতে পারে
 >Customer শুধু নিজের profile update করতে পারে
 
+
 ##🚘 Vehicle Management
 >Admin vehicle add / update / delete করতে পারে
 >Public সব vehicle দেখতে পারে
 >Vehicle availability (available / booked) auto update হয়
+
 
 ##📅 Booking System
 
 >Customer/Admin booking করতে পারে
 >Vehicle availability check হয়
 >Auto total price calculation
+
 
 Customer:
 >নিজের booking দেখতে পারে
@@ -39,6 +44,8 @@ Customer:
 Admin:
 >সব booking দেখতে পারে
 >Booking “returned” করলে vehicle আবার available হয়
+
+
 
 
 ##🛠️ Technology Stack
@@ -61,8 +68,9 @@ Role-based middleware
 
 Deployment
 ----------
-
 Vercel
+
+
 
 📂 Project Structure
 src/

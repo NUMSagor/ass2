@@ -121,5 +121,5 @@ src/
 
 ## 🔗 Links
 
-- **GitHub Repository:** https://github.com/NUMSagor/ass2.git  
+- **GitHub Repository:**  https://github.com/NUMSagor/Assignment-2.git 
 - **Live Deployment:** https://ass2-virid.vercel.app/
